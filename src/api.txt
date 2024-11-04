@@ -1,0 +1,19 @@
+HTTP method endpoints
+https://retoolapi.dev/VI2TUL/data
+See all available endpoints here (generated with json-server).
+GET
+/VI2TUL/data
+GET filter
+/VI2TUL/data?rating=value
+GET by id
+/VI2TUL/data/1
+GET paginate
+/VI2TUL/data?_page=2&_limit=10
+POST
+/VI2TUL/data
+PUT
+/VI2TUL/data/1
+PATCH
+/VI2TUL/data/1
+DELETE
+/VI2TUL/data/1
